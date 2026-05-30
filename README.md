@@ -3,6 +3,13 @@
 ## 项目概述
 
 本项目基于Niu & Spradling 2020 (PNAS)小鼠卵巢发育单细胞数据 (GEO: GSE136441)，专注于分析卵巢基质细胞在卵泡形成阶段的ECM重塑、TGF-β信号增强、基质重塑和细胞黏附相关转录组特征。
+原始数据存放于美国国家生物技术信息中心（NCBI）的
+基因表达综合数据库（Gene Expression Omnibus, GEO），
+系列登录号为 GSE136441
+数据集下载页面：https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE136441；
+关联生物项目编号：PRJNA562536；
+原始测序数据存放于 SRA 数据库，登录号：SRP219755，
+测序平台为 Illumina NextSeq 500（GEO 平台编号 GPL19057）。
 
 ### 研究背景
 
